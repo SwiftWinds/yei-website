@@ -1,3 +1,4 @@
+import { Router } from './Router';
 import React, { useState, useEffect } from "react";
 import { Switch, Route, Redirect } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
@@ -46,28 +47,7 @@ function App() {
         <ScrollToTop />
         <Header />
         <div className="App">
-          <Switch>
-            {routes.map(({ path, Component, dropRoutes }) => {
-              if (!dropRoutes)
-                return (
-                  <Route key={path} exact path={path}>
-                    <Component />
-                  </Route>
-                );
-              else {
-                return dropRoutes.map((dropRoute) => (
-                  <Route
-                    key={path + dropRoute.path}
-                    exact
-                    path={path + dropRoute.path}
-                  >
-                    <dropRoute.Component />
-                  </Route>
-                ));
-              }
-            })}
-            <Redirect to="/" />
-          </Switch>
+          <Router   dropRoutes={dropRoutes} path={path} dropRoute={dropRoute}  />
         </div>
         <Footer />
       </RegisterFormContextProvider>

@@ -1,59 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://www.youtheconomicsinitiative.org/speaker-series.html</loc>
-    <lastmod>2020-09-10T06:52:06+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.youtheconomicsinitiative.org/events.html</loc>
-    <lastmod>2020-09-10T06:52:06+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.youtheconomicsinitiative.org/schools.html</loc>
-    <lastmod>2020-09-10T06:52:06+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.youtheconomicsinitiative.org/team.html</loc>
-    <lastmod>2020-09-10T06:52:06+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.youtheconomicsinitiative.org/index.html</loc>
-    <lastmod>2020-09-10T06:52:06+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.youtheconomicsinitiative.org/econbowl.html</loc>
-    <lastmod>2020-09-10T06:52:06+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.youtheconomicsinitiative.org/blog.html</loc>
-    <lastmod>2020-09-10T06:52:06+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.youtheconomicsinitiative.org/flip.html</loc>
-    <lastmod>2020-09-10T06:52:06+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.youtheconomicsinitiative.org/blog/yei-blog-coming-soon</loc>
-    <lastmod>2019-11-29T22:57:58-08:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.youtheconomicsinitiative.org/blog/the-dow-jones-industrial-average-what-is-it-and-whats-happening-to-it</loc>
-    <lastmod>2020-04-22T14:35:27-07:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.youtheconomicsinitiative.org/blog/the-stimulus-package</loc>
-    <lastmod>2020-06-25T21:42:49-07:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.youtheconomicsinitiative.org/blog/covid-19-and-the-economy</loc>
-    <lastmod>2020-04-15T16:00:01-07:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.youtheconomicsinitiative.org/blog/new-480-billion-dollar-stimulus-package</loc>
-    <lastmod>2020-04-22T16:00:02-07:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.youtheconomicsinitiative.org/blog/our-post-pandemic-future</loc>
-    <lastmod>2020-05-06T19:16:15-07:00</lastmod>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>http://theyei.org/</loc> </url>
+<url> <loc>http://theyei.org/</loc> </url>
+<url> <loc>http://theyei.org/</loc> </url>
+<url> <loc>http://theyei.org/clubs</loc> </url>
+<url> <loc>http://theyei.org/clubs</loc> </url>
+<url> <loc>http://theyei.org/clubs/current-clubs</loc> </url>
+<url> <loc>http://theyei.org/clubs/current-clubs</loc> </url>
+<url> <loc>http://theyei.org/team</loc> </url>
+<url> <loc>http://theyei.org/team</loc> </url>
+<url> <loc>http://theyei.org/events</loc> </url>
+<url> <loc>http://theyei.org/events</loc> </url>
+<url> <loc>http://theyei.org/events/econbowl</loc> </url>
+<url> <loc>http://theyei.org/events/econbowl</loc> </url>
+<url> <loc>http://theyei.org/events/econolympiad</loc> </url>
+<url> <loc>http://theyei.org/events/econolympiad</loc> </url>
+<url> <loc>http://theyei.org/events/econtalks</loc> </url>
+<url> <loc>http://theyei.org/events/econtalks</loc> </url>
+<url> <loc>http://theyei.org/programs</loc> </url>
+<url> <loc>http://theyei.org/programs</loc> </url>
+<url> <loc>http://theyei.org/</loc> </url>
 </urlset>

@@ -10,7 +10,7 @@
     "@testing-library/user-event": "^7.2.1",
     "@typeform/embed": "^0.25.0",
     "cloudinary-react": "^1.6.6",
-    "gsap": "^3.5.1",
+    "gsap": "^3.6.0",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-countup": "^4.3.3",
